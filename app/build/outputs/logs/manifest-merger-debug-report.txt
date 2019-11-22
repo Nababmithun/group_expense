@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.diegodobelo.expandingview:expanding-view:0.9.4] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\expanding-view-0.9.4.aar\1c9af4afb1383e7c5ae6b9ea08bb4dcd\AndroidManifest.xml:2:1-16:12
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\tastytoast-0.1.0.aar\34eb95c999faa72200147a8c85eb0492\AndroidManifest.xml:2:1-14:12
+MERGED from [com.airbnb.android:lottie:2.2.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\lottie-2.2.0.aar\c7d21c27104a808272df3fc489dc5a16\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\abceab0de553e80d0a5b4ec24b5d771d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e81f1e473acb2e24b3b2cd523596a668\AndroidManifest.xml:2:1-11:12
+MERGED from [br.com.simplepass:loading-button-android:1.7.2] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\loading-button-android-1.7.2.aar\64dd7c44d2713ec91faa2cb6d7ea1dd9\AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0-alpha.aar\8c47c610406c1ff5c638ab62b639f16e\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e8bfafa7758a28170bb95bb730baad3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\87a2e02ae13bf26d6f0ce23ad3ec8e1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6fd1be535a3142bacb6921ddceb84bd5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d5776e325bf7fc1c87c7c55f9c310432\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a1d0902a3ca9462b5b3ffed7a304fc2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\02e497e4256c0cbe0c41262b6e44be7e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\686d336237fe530eba6e1cb55b25650b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4428f6726baebb0359e1ace9ad1791cb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\519ee53ba89a4f3cf277a2c3dc0bab5f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a5a32b6ebb4c6a3fe0ebd7863eda64ca\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:5:5-29:19
+MERGED from [com.diegodobelo.expandingview:expanding-view:0.9.4] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\expanding-view-0.9.4.aar\1c9af4afb1383e7c5ae6b9ea08bb4dcd\AndroidManifest.xml:11:5-14:19
+MERGED from [com.diegodobelo.expandingview:expanding-view:0.9.4] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\expanding-view-0.9.4.aar\1c9af4afb1383e7c5ae6b9ea08bb4dcd\AndroidManifest.xml:11:5-14:19
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\tastytoast-0.1.0.aar\34eb95c999faa72200147a8c85eb0492\AndroidManifest.xml:11:5-12:19
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\tastytoast-0.1.0.aar\34eb95c999faa72200147a8c85eb0492\AndroidManifest.xml:11:5-12:19
+MERGED from [com.airbnb.android:lottie:2.2.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\lottie-2.2.0.aar\c7d21c27104a808272df3fc489dc5a16\AndroidManifest.xml:10:5-20
+MERGED from [com.airbnb.android:lottie:2.2.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\lottie-2.2.0.aar\c7d21c27104a808272df3fc489dc5a16\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e81f1e473acb2e24b3b2cd523596a668\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e81f1e473acb2e24b3b2cd523596a668\AndroidManifest.xml:9:5-20
+MERGED from [br.com.simplepass:loading-button-android:1.7.2] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\loading-button-android-1.7.2.aar\64dd7c44d2713ec91faa2cb6d7ea1dd9\AndroidManifest.xml:11:5-14:19
+MERGED from [br.com.simplepass:loading-button-android:1.7.2] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\loading-button-android-1.7.2.aar\64dd7c44d2713ec91faa2cb6d7ea1dd9\AndroidManifest.xml:11:5-14:19
+	android:supportsRtl
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:9:9-45
+	android:icon
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:7:9-40
+	android:allowBackup
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.yash.group_expense_tracker.MainActivity
+ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.yash.group_expense_tracker.TripSelection
+ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:19:19-48
+activity#com.example.yash.group_expense_tracker.GroupCreation
+ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:20:9-51
+	android:name
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:20:19-48
+activity#com.example.yash.group_expense_tracker.AddMembers
+ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:21:9-48
+	android:name
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:21:19-45
+activity#com.example.yash.group_expense_tracker.Home
+ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:22:9-42
+	android:name
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:22:19-39
+activity#com.example.yash.group_expense_tracker.Members
+ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:23:9-45
+	android:name
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:23:19-42
+activity#com.example.yash.group_expense_tracker.Add_Expenses
+ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:24:9-50
+	android:name
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:24:19-47
+activity#com.example.yash.group_expense_tracker.ExpensePieGraph
+ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:25:9-53
+	android:name
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:25:19-50
+activity#com.example.yash.group_expense_tracker.ModifyExpenses
+ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:26:19-49
+activity#com.example.yash.group_expense_tracker.Calculate
+ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:27:9-47
+	android:name
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:27:19-44
+activity#com.example.yash.group_expense_tracker.TripDetail
+ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:28:9-57
+	android:name
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml:28:19-45
+uses-sdk
+INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+MERGED from [com.diegodobelo.expandingview:expanding-view:0.9.4] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\expanding-view-0.9.4.aar\1c9af4afb1383e7c5ae6b9ea08bb4dcd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.diegodobelo.expandingview:expanding-view:0.9.4] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\expanding-view-0.9.4.aar\1c9af4afb1383e7c5ae6b9ea08bb4dcd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\tastytoast-0.1.0.aar\34eb95c999faa72200147a8c85eb0492\AndroidManifest.xml:7:5-9:41
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\tastytoast-0.1.0.aar\34eb95c999faa72200147a8c85eb0492\AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:2.2.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\lottie-2.2.0.aar\c7d21c27104a808272df3fc489dc5a16\AndroidManifest.xml:6:5-8:41
+MERGED from [com.airbnb.android:lottie:2.2.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\lottie-2.2.0.aar\c7d21c27104a808272df3fc489dc5a16\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\abceab0de553e80d0a5b4ec24b5d771d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\abceab0de553e80d0a5b4ec24b5d771d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e81f1e473acb2e24b3b2cd523596a668\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e81f1e473acb2e24b3b2cd523596a668\AndroidManifest.xml:5:5-7:41
+MERGED from [br.com.simplepass:loading-button-android:1.7.2] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\loading-button-android-1.7.2.aar\64dd7c44d2713ec91faa2cb6d7ea1dd9\AndroidManifest.xml:7:5-9:41
+MERGED from [br.com.simplepass:loading-button-android:1.7.2] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\loading-button-android-1.7.2.aar\64dd7c44d2713ec91faa2cb6d7ea1dd9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0-alpha.aar\8c47c610406c1ff5c638ab62b639f16e\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0-alpha.aar\8c47c610406c1ff5c638ab62b639f16e\AndroidManifest.xml:16:5-18:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e8bfafa7758a28170bb95bb730baad3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e8bfafa7758a28170bb95bb730baad3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\87a2e02ae13bf26d6f0ce23ad3ec8e1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\87a2e02ae13bf26d6f0ce23ad3ec8e1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6fd1be535a3142bacb6921ddceb84bd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6fd1be535a3142bacb6921ddceb84bd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d5776e325bf7fc1c87c7c55f9c310432\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d5776e325bf7fc1c87c7c55f9c310432\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a1d0902a3ca9462b5b3ffed7a304fc2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a1d0902a3ca9462b5b3ffed7a304fc2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\02e497e4256c0cbe0c41262b6e44be7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\02e497e4256c0cbe0c41262b6e44be7e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\686d336237fe530eba6e1cb55b25650b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\686d336237fe530eba6e1cb55b25650b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4428f6726baebb0359e1ace9ad1791cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4428f6726baebb0359e1ace9ad1791cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\519ee53ba89a4f3cf277a2c3dc0bab5f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\519ee53ba89a4f3cf277a2c3dc0bab5f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a5a32b6ebb4c6a3fe0ebd7863eda64ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ETL-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a5a32b6ebb4c6a3fe0ebd7863eda64ca\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ETL-PC\Downloads\group_expense_tracker-master\group_expense_tracker-master\app\src\main\AndroidManifest.xml

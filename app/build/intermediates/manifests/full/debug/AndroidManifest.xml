@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.yash.group_expense_tracker"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="27" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/mainlogo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/mainlogo"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.yash.group_expense_tracker.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.yash.group_expense_tracker.TripSelection" />
+        <activity android:name="com.example.yash.group_expense_tracker.GroupCreation" />
+        <activity android:name="com.example.yash.group_expense_tracker.AddMembers" />
+        <activity android:name="com.example.yash.group_expense_tracker.Home" />
+        <activity android:name="com.example.yash.group_expense_tracker.Members" />
+        <activity android:name="com.example.yash.group_expense_tracker.Add_Expenses" />
+        <activity android:name="com.example.yash.group_expense_tracker.ExpensePieGraph" />
+        <activity android:name="com.example.yash.group_expense_tracker.ModifyExpenses" />
+        <activity android:name="com.example.yash.group_expense_tracker.Calculate" />
+        <activity android:name="com.example.yash.group_expense_tracker.TripDetail" />
+    </application>
+
+</manifest>

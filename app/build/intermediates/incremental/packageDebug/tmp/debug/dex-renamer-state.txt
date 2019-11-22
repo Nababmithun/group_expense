@@ -1,0 +1,4 @@
+#Mon Nov 18 16:44:30 BDT 2019
+base.0=C\:\\Users\\ETL-PC\\Downloads\\group_expense_tracker-master\\group_expense_tracker-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
